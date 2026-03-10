@@ -9,13 +9,13 @@ const Home = () => {
       <nav className="navbar">
         <div className="logo">SA</div>
 
-        <ul className="nav-links">
+        {/* <ul className="nav-links">
           <li>Portfolio</li>
           <li>About Me</li>
           <li>My Blog</li>
           <li>Reviews</li>
           <li>Contact</li>
-        </ul>
+        </ul> */}
 
         <button className="call-btn">Schedule a Call</button>
       </nav>
