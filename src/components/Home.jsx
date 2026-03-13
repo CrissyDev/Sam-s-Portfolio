@@ -6,20 +6,6 @@ const Home = () => {
   return (
     <div className="home">
 
-      <nav className="navbar">
-        <div className="logo">SA</div>
-
-        <ul className="nav-links">
-          <li>Portfolio</li>
-          <li>About Me</li>
-          <li>My Blog</li>
-          <li>Reviews</li>
-          <li>Contact</li>
-        </ul>
-
-        <button className="call-btn">Schedule a Call</button>
-      </nav>
-
 
       <div className="hero">
 
